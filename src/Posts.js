@@ -95,7 +95,7 @@ const Posts = (props) => {
 						<span role="img" aria-label="write">
 							✍️
 						</span>{" "}
-						Write with Me
+						Collaborative Markdown
 					</h1>
 					<div {...styles.taglineContainer}>
 						<span {...styles.tagLineText}>

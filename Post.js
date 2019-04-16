@@ -149,7 +149,7 @@ const Post = ({ match: { params } }) => {
 						<span role="img" aria-label="write">
 							✍️
 						</span>{" "}
-						Write with me
+						Collaborative Markdown
 					</p>
 				</Link>
 			</div>
