@@ -1,0 +1,14 @@
+{
+    "rtmd": {
+        "awscloudformation": {
+            "AuthRoleName": "rtmd-20190416123524-authRole",
+            "UnauthRoleArn": "arn:aws:iam::474248370580:role/rtmd-20190416123524-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::474248370580:role/rtmd-20190416123524-authRole",
+            "Region": "eu-west-2",
+            "DeploymentBucketName": "rtmd-20190416123524-deployment",
+            "UnauthRoleName": "rtmd-20190416123524-unauthRole",
+            "StackName": "rtmd-20190416123524",
+            "StackId": "arn:aws:cloudformation:eu-west-2:474248370580:stack/rtmd-20190416123524/f6e61ec0-602a-11e9-b7b3-069ff3a6dc30"
+        }
+    }
+}
