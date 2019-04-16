@@ -11,6 +11,13 @@
 # production
 /build
 
+#Amplify
+
+amplify
+src/aws-exports.js
+.amplifyrc
+.graphqlconfig.yml
+
 # misc
 .DS_Store
 .env.local

@@ -1,5 +1,7 @@
-type Todo @model {
-  id: ID!
-  name: String!
-  description: String
+type Post @model {
+	id: ID!
+	clientID: String!
+	markdown: String!
+	title: String!
+	createdAt: String
 }
